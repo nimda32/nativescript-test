@@ -1,0 +1,111 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-parallax",
+        "scope": null,
+        "escapedName": "nativescript-parallax",
+        "name": "nativescript-parallax",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/nimda/Documents/Workspace/hybrid/HelloWorld"
+    ]
+  ],
+  "_from": "nativescript-parallax@latest",
+  "_id": "nativescript-parallax@1.1.0",
+  "_inCache": true,
+  "_location": "/nativescript-parallax",
+  "_nodeVersion": "4.4.2",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-parallax-1.1.0.tgz_1461430923880_0.9024780387990177"
+  },
+  "_npmUser": {
+    "name": "joshdsommer",
+    "email": "joshdsommer@gmail.com"
+  },
+  "_npmVersion": "3.5.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-parallax",
+    "scope": null,
+    "escapedName": "nativescript-parallax",
+    "name": "nativescript-parallax",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-parallax/-/nativescript-parallax-1.1.0.tgz",
+  "_shasum": "54a2f7a368ab6fea4e604e5a2a5c77ccf9712beb",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-parallax",
+  "_where": "/Users/nimda/Documents/Workspace/hybrid/HelloWorld",
+  "author": {
+    "name": "Josh Sommer",
+    "email": "joshdsommer@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/TheOriginalJosh/nativescript-parallax/issues"
+  },
+  "dependencies": {},
+  "description": "NativeScript Parallax View Plugin.",
+  "devDependencies": {
+    "typescript": "^1.8.9"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "54a2f7a368ab6fea4e604e5a2a5c77ccf9712beb",
+    "tarball": "https://registry.npmjs.org/nativescript-parallax/-/nativescript-parallax-1.1.0.tgz"
+  },
+  "gitHead": "c599d3b95a4b132134c8566698941cf5ac8b0519",
+  "homepage": "https://github.com/TheOriginalJosh/nativescript-parallax",
+  "keywords": [
+    "NativeScript",
+    "JavaScript",
+    "Android",
+    "iOS",
+    "Parallax"
+  ],
+  "license": "MIT",
+  "main": "nativescript-parallax.js",
+  "maintainers": [
+    {
+      "name": "joshdsommer",
+      "email": "joshdsommer@gmail.com"
+    },
+    {
+      "name": "walkerrunpdx",
+      "email": "walkerrunpdx@gmail.com"
+    }
+  ],
+  "name": "nativescript-parallax",
+  "nativescript": {
+    "platforms": {
+      "android": "1.7.0",
+      "ios": "1.7.0"
+    },
+    "tns-ios": {
+      "version": "1.7.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheOriginalJosh/nativescript-parallax.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "demo.android": "npm run preparedemo &&  cd demo &&  tns run android",
+    "demo.ios": "npm run preparedemo &&  cd demo &&  tns run ios",
+    "preparedemo": "npm run build &&  cd demo &&  tns plugin remove nativescript-parallax &&  tns plugin add .. &&  tns install",
+    "setup": "cd demo &&  npm install &&  cd .. &&  npm run build &&  cd demo &&  tns plugin add .. &&  cd .."
+  },
+  "version": "1.1.0"
+}

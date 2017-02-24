@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-cardview-v7-25.1.1_4893c2f7cd6359c341ac79efbc4646a12f5980d2.jar" />
+    </item>
+    <item
+        jar="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-utils-25.1.1_1346ab9e7822a89dd41a084b8cb9b340c312f569.jar" />
+    </item>
+    <item
+        jar="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-animated-vector-drawable-25.1.1_980e5187cbbfd6ed7c7de813042b067b7813cba9.jar" />
+    </item>
+    <item
+        jar="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-media-compat-25.1.1_4c0bef4785ddaece3ea33f300af29aca9f6dcdad.jar" />
+    </item>
+    <item
+        jar="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/exploded-aar/HelloWorld/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0F1/debug/binding-generator_4539da33072b322632d69768092b599af917ddd0.jar" />
+    </item>
+    <item
+        jar="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-compat-25.1.1_8d00facd3dbdf53770870001a1756c8e45fd9a18.jar" />
+    </item>
+    <item
+        jar="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-widgets-release_766a5747ed173c53cc2baf665de99d5654b21c05.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0F1/debug/support-annotations-25.1.1_db3de1499fed4ae6b95f8f78d56192e715c93897.jar" />
+    </item>
+    <item
+        jar="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-ui-25.1.1_505325eb90e65f2def254572311e2aa0e3ac9853.jar" />
+    </item>
+    <item
+        jar="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-fragment-25.1.1_b0739d1cda1ce51fb1b12ed1dbeabad329750160.jar" />
+    </item>
+    <item
+        jar="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-vector-drawable-25.1.1_52f4a83f8b827cf3642b3166ceaca8744866e988.jar" />
+    </item>
+    <item
+        jar="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-appcompat-v7-25.1.1_6b280ba47ce90e858a11cab1127e53e3eb740580.jar" />
+    </item>
+    <item
+        jar="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-transition-25.1.1_d1404fb396df539a3d6123eacb0d86a0a37ea07f.jar" />
+    </item>
+    <item
+        jar="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-v4-25.1.1_9192bcfa33f6ae231ba092f0f9249fef9827c557.jar" />
+    </item>
+    <item
+        jar="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-recyclerview-v7-25.1.1_ef8343dc2539a46a683459df9087728eed2e74c2.jar" />
+    </item>
+    <item
+        jar="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/exploded-aar/HelloWorld/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0F1/debug/HelloWorld-runtime-unspecified_fe63cdae7631a81ebce396f8c201d3f41dfe4583.jar" />
+    </item>
+    <item
+        jar="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/nimda/Documents/Workspace/hybrid/HelloWorld/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-design-25.1.1_d1d3492564ab6a164ba0cb73c5a8be3ec1430a9a.jar" />
+    </item>
+
+</items>
